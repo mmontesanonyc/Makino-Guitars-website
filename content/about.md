@@ -4,6 +4,7 @@ date: 2022-06-19T12:14:19-04:00
 draft: false
 weight: 3
 homeDisplay: true
+layout: about
 img: DSC06408.jpg
 gallery: about
 galleryImages:

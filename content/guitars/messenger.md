@@ -1,5 +1,5 @@
 ---
-title: "Model MMSG"
+title: "Messenger"
 date: 2022-06-19T13:18:41-04:00
 draft: false
 weight: 1
@@ -18,7 +18,7 @@ galleryImages:
 - DSC06876.jpg
 ---
 
-The MMSG is the slimmer, beveled-top cousin of the MM design. The MMSG features some major differences from traditional beveled guitar shapes to make for a sturdy instrument without neck dive or flexible neck joint. This is not a fragile instrument. 
+The Messenger is the slimmer, beveled-top cousin of the Envoy. The Messenger features some major differences from traditional beveled guitar shapes to make for a sturdy instrument without neck dive or flexible neck joint. This is not a fragile instrument. 
 
 This guitar is comfortable on the lap, hangs well from the strap, and can be built under 6.5lbs with appropriate wood selection. The mid-focused sound is sure to punch through the mix. 
 
