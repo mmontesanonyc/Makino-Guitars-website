@@ -1,7 +1,7 @@
 ---
 title: "Model MMSG"
 date: 2022-06-19T13:18:41-04:00
-draft: true
+draft: false
 weight: 1
 pageType: guitarmodels
 img: DSC06857.jpg
