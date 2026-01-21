@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-md site-navbar theme-bg-dark mb-0 p-4">
   {{ $img := "Makino-cream-trans.png" }}
     <a class="navbar-brand theme-text-light ml-2" href="{{ .Site.BaseURL }}"><img src="{{ $img | absURL }}" style="height: 50px;" alt="Makino Guitars"></a>
-    <!--
+
   <button class="navbar-toggler theme-text-light" 
   type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2" aria-controls="exCollapsingNavbar2"
     aria-expanded="false" aria-label="Toggle navigation">
@@ -10,7 +10,7 @@
   </button>
   <div class="collapse navbar-collapse mr-2" id="exCollapsingNavbar2">
 
-    <ul class="nav navbar-nav ml-auto">
+    <ul class="nav navbar-nav ml-auto fs-md">
       {{ $currentNode := . }} {{ range .Site.Menus.main }}
       <li class="nav-item">
         <a class="nav-link menu-item no-decoration theme-text-light" href="{{.URL}}">
@@ -20,6 +20,6 @@
       </li>
       {{end}}
     </ul>
-  -->
+
   </div>
 </nav>
