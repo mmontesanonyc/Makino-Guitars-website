@@ -5,7 +5,7 @@ draft: false
 weight: 1
 type: guitars
 homeDisplay: true
-img: DSC06914.jpg
+img: /workshop/DSC06914.jpg
 gallery: guitars
 galleryImages:
 - DSC06409.jpg
