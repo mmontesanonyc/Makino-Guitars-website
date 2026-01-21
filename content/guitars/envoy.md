@@ -5,7 +5,7 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "$1, Bob."
-img: DSC06880.jpg
+img: /envoy/DSC06880.jpg
 gallery: mm
 galleryImages:
 - /envoy/DSC01023.jpg
