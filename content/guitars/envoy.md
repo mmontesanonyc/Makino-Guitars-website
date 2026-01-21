@@ -29,19 +29,20 @@ galleryImages:
 
 ---
 
-The Envoy is a carved-top electric guitar, designed to evoke the classic maple-over-mahogany guitars of the 1950s with adjustments to improve playability, comfort, and style. Significant effort went into designing a shape that both sits well on the lap and hangs in a neutral playing position on the strap. I offer the Envoy with a chambered body option for weight reduction.  
+Starts at $2600
 
-Designed to be sturdy, beautiful, and comfortable, the Envoy is a big-sounding guitar. 
+The Envoy is a carved-top electric guitar, designed to evoke the classic maple-over-mahogany guitars of the 1950s with adjustments to improve playability, comfort, and style. Significant effort went into designing a shape that both sits well on the lap and hangs in a neutral playing position on the strap. I offer the Envoy with a chambered body option for weight reduction.
 
----
+Designed to be sturdy, beautiful, and comfortable, the Envoy is a big-sounding guitar.
 
-Standard features:
+Standard specs:
 - 24.875" scale length
 - 1 11/16” nut width
 - 12” radius
 - 22 Frets
-- Two-piece neck
 - Long tenon neck joint
 - Two-way truss rod
 - Bone nut
 - Switchcraft jack and switch, CTS pots
+
+Reach out on the [Order page](..order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.
