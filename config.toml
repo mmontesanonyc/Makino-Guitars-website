@@ -13,6 +13,13 @@ navbarBgColorClass = 'secondary'
     url = "/guitars/"
 
 [[menu.main]]
+    name = "Order"
+    pre = ""
+    weight = -15
+    identifier = "Order"
+    url = "/order/"
+
+[[menu.main]]
     name = "About"
     pre = ""
     weight = -10
