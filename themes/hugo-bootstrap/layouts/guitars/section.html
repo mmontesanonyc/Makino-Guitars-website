@@ -1,8 +1,8 @@
 {{ partial "head" . }}
 <div class="background-container"></div>
-<div class="container-fluid">
+<div class="container">
   <div class="row">
-    <div class="col-md-10 mx-auto">
+    <div class="col-12">
       <nav aria-label="breadcrumb" class="site-breadcrumbs">
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="../" class="color-indigo">Home</a></li>
@@ -11,48 +11,38 @@
       </nav>
 
       <div class="row">
-        <div class="col-md-8 mr-auto"> 
+        <div class="col-md-6"> 
           <h2>{{ .Title }}</h2>   
           <div class="fs-md">
             {{ .Content }}
           </div>
+
           <hr>
+                        {{ partial "customize" .}}
+
     
         </div>
-      </div>
 
-
-
-    </div>
-
-    <div class="col-12">
-      <div class="row my-4">
+        <div class="col-md-6">
+              <div class="row my-4">
         {{ range where .Site.RegularPages "Section" "guitars" }}
-        <div class="col-lg-4 col-md-12 mb-2">
+        <div class="col-12 mb-2">
           {{ partial "card-guitar" . }}
       </div>
         {{ end }}
     </div>
-    </div>
-  </div>
 
-  <div class="row">
-    <div class="col-md-10 mx-auto">
-      <div class="row">
-          <div class="col-md-8 mr-auto fs-md">
-            <hr>
-              {{ partial "customize" .}}
-            <hr>
+        </div>
 
-          </div>
+
 
       </div>
 
+
+
     </div>
 
   </div>
-
-
 
 
 
