@@ -4,7 +4,7 @@ date: 2022-06-19T13:18:41-04:00
 draft: false
 weight: 1
 pageType: guitarmodels
-pricing: "$1, Bob."
+pricing: "Starts at $2600."
 img: /envoy/DSC06880.jpg
 gallery: mm
 galleryImages:
@@ -28,8 +28,6 @@ galleryImages:
 - /envoy/DSC06897.jpg
 
 ---
-
-Starts at $2600
 
 The Envoy is a carved-top electric guitar, designed to evoke the classic maple-over-mahogany guitars of the 1950s with adjustments to improve playability, comfort, and style. Significant effort went into designing a shape that both sits well on the lap and hangs in a neutral playing position on the strap. I offer the Envoy with a chambered body option for weight reduction.
 

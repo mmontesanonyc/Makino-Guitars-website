@@ -4,6 +4,7 @@ date: 2022-06-19T13:18:41-04:00
 draft: false
 weight: 1
 pageType: guitarmodels
+pricing: "Starts at $2300."
 img: /messenger/DSC06857.jpg
 gallery: mmsg
 galleryImages:
@@ -17,8 +18,6 @@ galleryImages:
 - DSC06875.jpg
 - DSC06876.jpg
 ---
-
-Starts at $2300
 
 The Messenger is the slimmer, bevel-bodied cousin of the Envoy. The Messenger shares the same offset body shape as the Envoy, but little else. It has its own voice and feel. 
 

@@ -17,6 +17,11 @@
                     <h3 class="card-title theme-text-dark">{{ .Title }}</h3>
                     <hr class="thin">
                     <p class="card-text theme-text-dark">{{ .Content | plainify | htmlUnescape | truncate 250 }}</p>
+
+                    {{ if .Params.pricing }}
+                    <hr class="thin">
+                    <p class="card-text theme-text-dark">{{ .Params.pricing }}</p>
+                    {{ end }}
                 </div>
             </div>
         </div>
