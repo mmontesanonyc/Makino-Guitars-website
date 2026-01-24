@@ -194,3 +194,8 @@ p {
     font-size: 1.5rem!important;
   }
   
+@media (min-width: 768px) {
+  .border-md-0 {
+    border: 0 !important;
+  }
+}
