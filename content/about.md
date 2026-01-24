@@ -21,9 +21,9 @@ galleryImages:
 
 My name is Tak. By day, I work for a civil engineering firm. By night, I build guitars in my small workshop. Little gives me more satisfaction than seeing and hearing people enjoy guitars I’ve built for them.
 
-What can a handmade guitar do for you that a factory-made guitar can’t? Not much. Look, music isn’t logical. There’s no reason small vibrations in the air should make us feel the way we do when we hear them. But it does. **If you’re reading this, you understand.** This isn’t about logical pros-and-cons optimization. This is about a guitar that makes you feel something special when you play it. All I want to do is build your favorite guitar. 
+What can a handmade guitar do for you that a factory-made guitar can’t? Not much. Look, music isn’t logical. There’s no reason small vibrations in the air should make us feel the way we do when we hear them. But it does. **If you’re reading this, you understand.** This isn’t about logical pros-and-cons optimization. This is about a guitar that **makes you feel something special when you play it**. All I want to do is build your favorite guitar. 
 
-<hr>
+---
 
 When I was young - maybe 5 or 6 years old - the cool older kid next door got an electric guitar for his birthday. I don't think he even learned how to play it (I later saw it hidden in the corner of a bedroom closet). That didn’t matter, the damage was done: then I knew, as I know now, cool people play guitars.  
 
@@ -33,7 +33,9 @@ I have distinct memories of checking out books about electric guitars from the p
 
 As a child, my parents enforced a rule: If I wanted a toy I had to promise not to disassemble it to understand how the mechanism within functioned. It turns out that once I understood how my Transformers transformed, they no longer did transform. Eventually, once I got an electric guitar, that same drive to understand how and why things work meant I was carelessly burning holes in my childhood bedroom carpet with a soldering iron and leaving a trail of disassembled pickups and burnt out potentiometers in my wake. 
 
-In 2014, with no tools and no plan other than “I’m going to build a guitar,” I overpaid for wood on eBay. Eventually I found a mentor with a furniture woodworking background who taught me power tool operation and safety and was generous enough to let me use his workshop to build my guitar. After finishing the first guitar I knew I was hooked. Building guitars scratched both the musical-creative and tinkering itches.
+---
+
+In 2014, with no tools and no plan other than “I’m going to build a guitar,” I overpaid for wood on eBay. Eventually I found a mentor with a furniture woodworking background who taught me power tool operation and safety and was generous enough to let me use his workshop to build my guitar. **After finishing the first guitar I knew I was hooked**. Building guitars scratched both the musical-creative and tinkering itches.
 
 Woodworking is a means to an end for me. If guitars were made from wool, I’d have a small flock of sheep in my backyard. 
 
