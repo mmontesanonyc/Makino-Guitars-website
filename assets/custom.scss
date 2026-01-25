@@ -198,4 +198,10 @@ p {
   .border-md-0 {
     border: 0 !important;
   }
+
+}
+
+.nav-link:hover{
+    border-bottom: 1px solid white;
+    font-weight: bold;
 }
