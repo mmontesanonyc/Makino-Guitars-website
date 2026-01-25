@@ -5,7 +5,7 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "Starts at $2600."
-img: /envoy/DSC06880.jpg
+img: /envoy/DSC01917.jpg
 gallery: mm
 galleryImages:
 - /envoy/DSC01023.jpg
@@ -22,7 +22,6 @@ galleryImages:
 - /envoy/DSC06886.jpg
 - /envoy/DSC06880.jpg
 - /envoy/DSC06885.jpg
-- /envoy/DSC06886.jpg
 - /envoy/DSC06887.jpg
 - /envoy/DSC06889.jpg
 - /envoy/DSC06897.jpg

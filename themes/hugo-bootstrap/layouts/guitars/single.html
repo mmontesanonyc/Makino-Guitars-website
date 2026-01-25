@@ -34,11 +34,14 @@
       <h1>{{ .Title }}</h1>
 
       <div class="fs-md">
+        {{ .Params.pricing }}
+        <hr>
+
+
         {{ .Content }}
 
         <hr>
 
-        {{ .Params.pricing }}
       </div>
 
     </div>
