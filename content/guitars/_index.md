@@ -23,11 +23,13 @@ galleryImages:
 - DSC06763.jpg
 ---
 
-Classic formats in unique, iconic shapes.
+**What inspires you?** Your music may stand on the shoulders of giants - but it's *yours*. Your songs, your sound. Why should your guitar be any different? 
 
-The classic guitars of the 1950s and 1960s are classics for a reason: they work! They’re the guitars that create the sounds of the music you hear in your head, and the look of rock and roll - that trigger your excitement when you listen, and your confidence when you play. 
+Makino Guitars evoke the spirit of traditional designs, but with distinctly original flair and customizable details that put your personality into your guitar - as much as you put it into your music. 
+
+---
 
 I build guitars with a combination of traditional and modern methods. I use traditional hand tool woodworking techniques, and hand-rout guitar bodies and shape necks by hand. However, my design and production process include both modern processes like 3D printing and software modeling. 
 
-The result is a well thought out guitar with its own identity, but reminiscent of the instruments that defined rock and roll - and sure to give you a special connection to your instrument, and your music. 
+Combine that with your choices, and we'll shape a guitar that's reminiscent of the instruments that defined rock and roll - but has its own personality as much as you do. The result is a guitar that will stand out on stage or in the studio the same way that you do. 
 
