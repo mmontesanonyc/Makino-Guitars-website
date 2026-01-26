@@ -26,7 +26,7 @@
         <div class="col-md-6">
               <div class="row my-4">
         {{ range where .Site.RegularPages "Section" "guitars" }}
-        <div class="col-12 mb-2">
+        <div class="col-12 mb-4">
           {{ partial "card-guitar" . }}
       </div>
         {{ end }}
