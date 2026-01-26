@@ -4,7 +4,7 @@
         <div class="row no-gutters h-100">
             <div class="col-5 h-100 mb-4">
                 {{ if .Params.img }}
-                    <div class="card-cover h-100" style="background-image: url('{{ .Params.img | absURL }}');">
+                    <div class="card-cover h-100" style="background-image: url('{{ .Params.img | relURL | absURL }}');">
                     </div>
                 {{ else }}
                     <div class="card-cover h-100" style="background-image: url('placeholder.png');">

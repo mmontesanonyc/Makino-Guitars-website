@@ -5,18 +5,18 @@ draft: false
 weight: 3
 homeDisplay: true
 layout: about
-img: /workshop/DSC06408.jpg
+img: workshop/DSC06408.jpg
 gallery: true
 galleryImages:
-- /workshop/DSC06925.jpg
-- /workshop/DSC06400.jpg
-- /workshop/DSC06420.jpg
-- /workshop/DSC06596.jpg
-- /workshop/DSC06901.jpg
-- /workshop/DSC06632.jpg
-- /workshop/DSC06644.jpg
-- /workshop/DSC06772.jpg
-- /workshop/DSC06782.jpg
+- workshop/DSC06925.jpg
+- workshop/DSC06400.jpg
+- workshop/DSC06420.jpg
+- workshop/DSC06596.jpg
+- workshop/DSC06901.jpg
+- workshop/DSC06632.jpg
+- workshop/DSC06644.jpg
+- workshop/DSC06772.jpg
+- workshop/DSC06782.jpg
 ---
 
 My name is Tak. By day, I work for a civil engineering firm. By night, I build guitars in my small workshop. Little gives me more satisfaction than seeing and hearing people enjoy guitars I’ve built for them.
