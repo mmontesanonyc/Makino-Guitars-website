@@ -5,7 +5,7 @@ draft: false
 weight: 3
 homeDisplay: true
 layout: about
-img: workshop/DSC06408.jpg
+img: DSC06408.jpg
 gallery: true
 galleryImages:
 - workshop/DSC06925.jpg

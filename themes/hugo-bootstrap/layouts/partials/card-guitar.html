@@ -3,13 +3,21 @@
 
         <div class="row no-gutters h-100">
             <div class="col-4 h-100 mb-4">
-                {{ if .Params.img }}
-                    <div class="card-cover h-100" style="background-image: url('{{ .Params.img | absURL }}');">
-                    </div>
-                {{ else }}
-                    <div class="card-cover h-100" style="background-image: url('placeholder.png');">
-                    </div>
+
+                {{ $bgURL := "placeholder.png" | relURL }}
+                {{ with .Params.img }}
+                    {{ $img := . }}           <!-- save the filename -->
+                    {{ with $.Resources.GetMatch $img }}
+                        {{ $bg := .Resize "0x450 q85" }}
+                        {{ $bgURL = $bg.RelPermalink }}
+                    {{ end }}
                 {{ end }}
+
+                <div class="card-cover h-100"
+                    style="background-image: url('{{ $bgURL }}');">
+                </div>
+
+
             </div>
 
             <div class="col-8">

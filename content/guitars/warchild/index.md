@@ -5,7 +5,7 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "Pricing to follow."
-img: warchild/WCsoon.jpg
+img: WCsoon.jpg
 gallery: mmsg
 galleryImages:
 - warchild/WCsoon.jpg

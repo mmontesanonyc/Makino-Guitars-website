@@ -5,7 +5,7 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "Starts at $2300."
-img: messenger/DSC00946.jpg
+img: DSC00946.jpg
 gallery: mmsg
 galleryImages:
 - messenger/DSC00946.jpg
