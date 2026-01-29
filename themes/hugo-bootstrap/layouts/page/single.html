@@ -15,17 +15,19 @@
     </div>
 
     <div class="col-12">
-      {{ if .Params.gallery }}
+
+
+    </div>
+
+    <div class="col-md-8 mr-auto my-4">
+            {{ if .Params.gallery }}
           {{ partial "guitar-gallery" . }}
       {{ else if .Params.img }}
         <div class="big-fn-image" style="background-image: url('{{ .Params.img | absURL }}');">
         </div>
       {{ end }}
 
-    </div>
-
-    <div class="col-md-8 mr-auto my-4">
-      <h1>{{ .Title }} </h1>
+      <h1>{{ .Title }}</h1>
       <div class="fs-md">
         {{ .Content }} 
       </div>
