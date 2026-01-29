@@ -19,12 +19,6 @@ galleryImages:
 - envoy/burst/DSC03055.jpg
 - envoy/burst/DSC03070.jpg
 - envoy/burst/DSC03099-2.jpg
-- envoy/MM02/DSC06886.jpg
-- envoy/MM02/DSC06880.jpg
-- envoy/MM02/DSC06885.jpg
-- envoy/MM02/DSC06887.jpg
-- envoy/MM02/DSC06889.jpg
-- envoy/MM02/DSC06897.jpg
 
 ---
 

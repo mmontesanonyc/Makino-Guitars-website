@@ -17,7 +17,6 @@ galleryImages:
 - messenger/blood/DSC00581.jpg
 - messenger/gold/DSC01221.jpg
 - messenger/gold/DSC01224.jpg
-- messenger/black/DSC06857.jpg
 - messenger/black/DSC06867.jpg
 - messenger/black/DSC06872.jpg
 - messenger/black/DSC06873.jpg
