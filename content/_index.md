@@ -31,6 +31,6 @@ galleryImages:
     credit: ''
 ---
 
-Fine electric guitars handmade in Houston, Texas.
+Custom electric guitars made by hand in Houston, Texas. 
 
-A Makino Guitar combines traditional formats and methods with a unique offset shape and look, and the care and attention to detail that’s only possible with instruments built one at a time.
+A Makino Guitar combines traditional formats and methods with unique, stylish designs. Every instrument is made with the care and attention to detail that’s only possible with instruments built one at a time.
