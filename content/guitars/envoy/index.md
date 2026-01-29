@@ -19,6 +19,8 @@ galleryImages:
 - envoy/burst/DSC03055.jpg
 - envoy/burst/DSC03070.jpg
 - envoy/burst/DSC03099-2.jpg
+- envoy/MM02/DSC06886.jpg
+- envoy/MM02/DSC06885.jpg
 
 ---
 
