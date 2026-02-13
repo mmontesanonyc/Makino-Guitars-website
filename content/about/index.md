@@ -19,24 +19,10 @@ galleryImages:
 - workshop/DSC06782.jpg
 ---
 
-My name is Tak. By day, I work for a civil engineering firm. By night, I build guitars in my small workshop. Little gives me more satisfaction than seeing and hearing people enjoy guitars I’ve built for them.
+When I was young - maybe 5 or 6 years old - the cool older kid next door got an electric guitar for his birthday. I don’t think he ever learned to play it (I later saw it hidden in the corner of a bedroom closet). That didn’t matter. The damage was done. I knew the truth - guitars were cool; people who played guitar were cool.
 
-What can a handmade guitar do for you that a factory-made guitar can’t? Not much. Look, music isn’t logical. There’s no reason small vibrations in the air should make us feel the way we do when we hear them. But it does. **If you’re reading this, you understand.** This isn’t about logical pros-and-cons optimization. This is about a guitar that **makes you feel something special when you play it**. All I want to do is build your favorite guitar. 
+Growing up, my parents eventually had to enforce a rule. If I wanted a toy I had to promise not to disassemble it to understand how the mechanism within functioned. Just how does a Transformer transform? I needed to understand. Once I got an electric guitar, the same drive to understand meant I was carelessly burning holes in my bedroom carpet with a soldering iron and leaving a trail of disassembled pickups and burnt out potentiometers in my wake. 
 
----
+Today my relationship with guitars has evolved from one of curious destruction to one of informed creation. I build custom guitars for players who want what a mass-produced guitar cannot deliver: a one-of-a-kind instrument that speaks to their inspirations and their vision. A cohesive, system-level approach to building ensures that the components of the guitar work together to look, sound, and play the way you want. 
 
-When I was young - maybe 5 or 6 years old - the cool older kid next door got an electric guitar for his birthday. I don't think he even learned how to play it (I later saw it hidden in the corner of a bedroom closet). That didn’t matter, the damage was done: then I knew, as I know now, cool people play guitars.  
-
-My parents, likely in hopes of developing a prosocial, contributing member of society, enrolled me in classical piano lessons. Pianos are not guitars. Later, I took classical guitar lessons. A step in the right direction, but not quite there yet. By the end of middle school, I wore them down. I had a Stratocaster. Skateboarding, punk rock, and a Stratocaster. Sorry, mom and dad. 
-
-I have distinct memories of checking out books about electric guitars from the public library and bringing the books out to play with the neighborhood kids. In hindsight, I now suspect I was the only one with a genuine interest in the hum-cancelling properties of reverse-wound, reverse-polarity pickups or the effects of scale length on string tension. 
-
-As a child, my parents enforced a rule: If I wanted a toy I had to promise not to disassemble it to understand how the mechanism within functioned. It turns out that once I understood how my Transformers transformed, they no longer did transform. Eventually, once I got an electric guitar, that same drive to understand how and why things work meant I was carelessly burning holes in my childhood bedroom carpet with a soldering iron and leaving a trail of disassembled pickups and burnt out potentiometers in my wake. 
-
----
-
-In 2014, with no tools and no plan other than “I’m going to build a guitar,” I overpaid for wood on eBay. Eventually I found a mentor with a furniture woodworking background who taught me power tool operation and safety and was generous enough to let me use his workshop to build my guitar. **After finishing the first guitar I knew I was hooked**. Building guitars scratched both the musical-creative and tinkering itches.
-
-Woodworking is a means to an end for me. If guitars were made from wool, I’d have a small flock of sheep in my backyard. 
-
-The obsession about guitars, both as instruments of musical creation and as electro-mechanical systems to be understood and refined, will possess me for the rest of my life. 
+After all - guitars are cool, and people who play guitar are cool.
