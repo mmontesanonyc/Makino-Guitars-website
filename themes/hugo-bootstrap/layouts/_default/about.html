@@ -3,7 +3,7 @@
 
   <div class="row">
       <div class="col-12">
-        <nav aria-label="breadcrumb">
+        <nav aria-label="breadcrumb" class="site-breadcrumbs">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../../" class="color-indigo">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
@@ -16,10 +16,10 @@
           {{ partial "guitar-gallery" . }}
         {{ end }}
 
-              <h2 class="mt-4">{{ .Title }}</h2>
-      <div class="fs-md">
-              {{ .Content }}
-      </div>
+        <h2 class="mt-4">{{ .Title }}</h2>
+          <div class="fs-md">
+                  {{ .Content }}
+          </div>
       </div>
   </div>
   
