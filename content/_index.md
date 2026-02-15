@@ -11,7 +11,7 @@ galleryImages:
     credit: ''
   - url: gallery/credit-at-aleksandra_anderberg.jpg
     credit: '@Aleksandra_Anderberg'
-  - url: gallery/DSC06886.jpg
+  - url: envoy/sparklegreen/DSC01964.jpg
     credit: ''
   - url: gallery/credit-at-shutter_sha.jpg
     credit: '@shutter_sha'
@@ -21,7 +21,7 @@ galleryImages:
     credit: '@Aleksandra_Anderberg'
   - url: gallery/DSC06771.jpg
     credit: ''
-  - url: gallery/DSC06861.jpg
+  - url: messenger/cream/DSC00950.jpg
     credit: ''
   - url: gallery/credit-robert-espinosa.jpg
     credit: Robert Espinosa
