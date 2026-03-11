@@ -4,7 +4,7 @@ date: 2022-06-19T13:18:41-04:00
 draft: false
 weight: 1
 pageType: guitarmodels
-pricing: "Pricing to follow."
+pricing: "Starts at $2300."
 img: warchild-yellow.jpeg
 gallery: mmsg
 galleryImages:
@@ -13,7 +13,7 @@ galleryImages:
 - warchild/DSC04292.jpg
 ---
 
-The WARCHILD is designed for big riffs and mean looks. With styling that evokes the toughest guitars of the 1970s, it's got a throaty sound designed for volume, grit, and growl. 
+The WARCHILD is designed for big riffs and mean looks. With styling inspired by hard rocking instruments of the 1970s and 1980s, it’s got excellent high fret access and a chunky midrange bark.
 
 Standard features:
 - 24.875" scale length
