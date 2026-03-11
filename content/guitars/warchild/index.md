@@ -5,10 +5,12 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "Pricing to follow."
-img: WCsoon.jpg
+img: DSC04292.jpg
 gallery: mmsg
 galleryImages:
-- warchild/WCsoon.jpg
+- warchild/DSC02767.jpg
+- warchild/DSC03834.jpg
+- warchild/DSC04292.jpg
 ---
 
 The WARCHILD is designed for big riffs and mean looks. 
