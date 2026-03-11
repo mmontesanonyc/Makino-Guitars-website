@@ -27,3 +27,5 @@ What inspires you? Your music may stand on the shoulders of giants - but it’s 
 
 Makino Guitars evoke the spirit of traditional designs, but with distinctly original flair and customizable details that put your personality into your guitar - as much as you put it into your music.
 
+
+

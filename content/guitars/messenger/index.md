@@ -37,5 +37,4 @@ Standard features:
 - Switchcraft jack and switch, CTS pots
 - Nitrocellulose lacquer finish
 
-Reach out on the [Order page](..order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.
-
+Reach out on the [Order page](../../order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.

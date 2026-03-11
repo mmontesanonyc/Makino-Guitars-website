@@ -17,5 +17,7 @@ The WARCHILD is designed for big riffs and mean looks.
 
 Details are coming soon. 
 
+Reach out on the [Order page](../../order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.
+
 
 
