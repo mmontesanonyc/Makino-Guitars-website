@@ -8,8 +8,8 @@ pricing: "Starts at $2300."
 img: warchild-yellow.jpeg
 gallery: mmsg
 galleryImages:
-- warchild/DSC02767.jpg
-- warchild/DSC03834.jpg
+- warchild/transparent/DSC02767.jpg
+- warchild/red/DSC03834.jpg
 - warchild/DSC04292.jpg
 ---
 
