@@ -5,7 +5,7 @@ draft: false
 galleryImages:
   - url: home/DSC03099.jpg
     credit: ''
-  - url: warchild/DSC04292.jpg
+  - url: warchild/tvyellow/DSC04292.jpg
     credit: ''
   - url: envoy/MM02/DSC06886.jpg
     credit: ''
@@ -13,7 +13,7 @@ galleryImages:
     credit: ''
   - url: home/credit-at-aleksandra_anderberg-2.jpg
     credit: '@Aleksandra_Anderberg'
-  - url: warchild/DSC02767.jpg
+  - url: warchild/transparent/DSC02767.jpg
     credit: ''
   - url: envoy/sparklegreen/DSC01978.jpg
     credit: ''
@@ -25,7 +25,7 @@ galleryImages:
     credit: ''
   - url: home/DSC06875.jpg
     credit: ''
-  - url: warchild/DSC03834.jpg
+  - url: warchild/red/DSC03834.jpg
     credit: ''
   - url: home/DSC00612.jpg
     credit: ''
