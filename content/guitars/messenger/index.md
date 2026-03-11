@@ -34,7 +34,7 @@ Standard features:
 - Set neck construction
 - Two-way truss rod
 - Bone nut
-- Switchcraft jack and switch, CTS pots
 - Nitrocellulose lacquer finish
+- High quality switch, jack, and pots from suppliers like Emerson, Switchcraft, and CTS
 
 Reach out on the [Order page](../../order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.

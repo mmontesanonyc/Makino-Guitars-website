@@ -5,7 +5,7 @@ draft: false
 weight: 1
 pageType: guitarmodels
 pricing: "Pricing to follow."
-img: DSC04292.jpg
+img: warchild-yellow.jpeg
 gallery: mmsg
 galleryImages:
 - warchild/DSC02767.jpg
@@ -13,9 +13,18 @@ galleryImages:
 - warchild/DSC04292.jpg
 ---
 
-The WARCHILD is designed for big riffs and mean looks. 
+The WARCHILD is designed for big riffs and mean looks. With styling that evokes the toughest guitars of the 1970s, it's got a throaty sound designed for volume, grit, and growl. 
 
-Details are coming soon. 
+Standard features:
+- 24.875" scale length
+- 1 11/16” nut width
+- 12” radius
+- 22 frets
+- Set neck construction
+- Two-way truss rod
+- Bone nut
+- Nitrocellulose lacquer finish
+- High quality switch, jack, and pots from suppliers like Emerson, Switchcraft, and CTS
 
 Reach out on the [Order page](../../order) or [email me](mailto:tak@makinoguitars.com) and I'll be happy to discuss how I can build your favorite guitar.
 
