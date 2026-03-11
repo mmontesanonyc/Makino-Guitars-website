@@ -1,0 +1,43 @@
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    {{ range $index, $image := .Params.galleryImages }}
+      <li data-target="#carouselExampleIndicators" data-slide-to="{{ $index }}" class="{{ if eq $index 0 }}active{{ end }}"></li>
+    {{ end }}        
+  </ol>
+
+  <div class="carousel-inner">
+    {{ range $index, $image := .Params.galleryImages }}
+      <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+        <div class="text-center">
+          <img class="d-block w-100" src="{{ $image.url | absURL }}" alt="image">
+            <div class="photo-caption text-muted small mt-0">
+              {{ if $image.credit }}
+                {{ $image.credit }}
+              {{ end }}
+            </div>
+        </div>
+      </div>
+    {{ end }}  
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<style>
+  .carousel-inner img {
+    height: 70vh;
+    object-fit: cover;
+  }
+  .photo-caption {
+    font-style: italic;
+    min-height: 1.5em; /* Reserve enough space for one line */
+  }
+</style>
+

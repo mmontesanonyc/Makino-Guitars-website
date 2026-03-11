@@ -3,31 +3,31 @@ title: "Makino Guitars: Home"
 date: 2022-06-19T12:14:19-04:00
 draft: false
 galleryImages:
-  - url: gallery/DSC03099.jpg
+  - url: home/DSC03099.jpg
     credit: ''
-  - url: gallery/IMG_20250318_185244_922.jpg
+  - url: home/IMG_20250318_185244_922.jpg
     credit: ''
-  - url: gallery/DSC00612.jpg
+  - url: home/DSC00612.jpg
     credit: ''
-  - url: gallery/credit-at-aleksandra_anderberg.jpg
+  - url: home/credit-at-aleksandra_anderberg.jpg
     credit: '@Aleksandra_Anderberg'
   - url: envoy/sparklegreen/DSC01964.jpg
     credit: ''
-  - url: gallery/credit-at-shutter_sha.jpg
+  - url: home/credit-at-shutter_sha.jpg
     credit: '@shutter_sha'
-  - url: gallery/DSC06695.jpg
+  - url: home/DSC06695.jpg
     credit: ''
-  - url: gallery/credit-at-aleksandra_anderberg-2.jpg
+  - url: home/credit-at-aleksandra_anderberg-2.jpg
     credit: '@Aleksandra_Anderberg'
-  - url: gallery/DSC06771.jpg
+  - url: home/DSC06771.jpg
     credit: ''
   - url: messenger/cream/DSC00950.jpg
     credit: ''
-  - url: gallery/credit-robert-espinosa.jpg
+  - url: home/credit-robert-espinosa.jpg
     credit: Robert Espinosa
-  - url: gallery/DSC06875.jpg
+  - url: home/DSC06875.jpg
     credit: ''
-  - url: gallery/workshop.jpg
+  - url: home/workshop.jpg
     credit: ''
 ---
 

@@ -31,7 +31,7 @@ navbarBgColorClass = 'secondary'
     pre = "<i class='fab fa-instagram'></i>"
     weight = -5
     identifier = "instagram"
-    url = "https://www.instagram.com/takmakino"
+    url = "https://www.instagram.com/makinoguitars"
 
 [[menu.main]]
     name = ""
