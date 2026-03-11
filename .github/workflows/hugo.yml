@@ -55,6 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
+            --gc \
             --ignoreCache \
             --cleanDestinationDir \
             --baseURL "${{ steps.pages.outputs.base_url }}"
