@@ -15,7 +15,6 @@ galleryImages:
 - envoy/sparklegreen/DSC01964.jpg
 - envoy/sparklegreen/DSC01975.jpg
 - envoy/sparklegreen/DSC02092.jpg
-- envoy/sparklegreen/DSC02085.jpg
 - envoy/burst/DSC03055.jpg
 - envoy/burst/DSC03070.jpg
 - envoy/burst/DSC03099-2.jpg
